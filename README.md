@@ -1,2 +1,2 @@
-# vextr.github.io
+# Welcome to VEXTR
 GitHub pages for VEXTR
